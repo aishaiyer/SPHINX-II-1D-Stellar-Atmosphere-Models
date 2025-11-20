@@ -12,5 +12,5 @@ All "flavors" of SPHINX II models have atmosphere structures in ATMS/ and stella
 
 (2) SPHINXII_graycloud directory: contains SPHINX II models that assume a basic gray cloud that are vertically uniform in distribution. This model grid assumed mixing-length parameter MLT of 1.
 
-(3) SPHINXII_graycloud_MLT0.5 directory: contains SPHINX II models same as (2) however assuming mixing-length parameter MLT of 0.5.
+(3) SPHINXII_graycloud_MLT0.5 directory: contains SPHINX II models same as (2) however assuming mixing-length parameter MLT of 0.5. Also contains directory for fixed gray cloud opacity of -29 (cm2/g) and mixing-length parameter assumed 0.5--the grid used in Figure 5 of the paper.
 

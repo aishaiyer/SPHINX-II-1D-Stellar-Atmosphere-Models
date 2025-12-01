@@ -1,10 +1,13 @@
 # SPHINX-II-1D-Stellar-Atmosphere-Models
 1D Stellar Atmosphere model grid and spectra for mid-to-late type M-dwarfs from Iyer et al. 2025. 
-Hosting model grid files on github. Github link listed on zenodo repository that is linked in the publication.
+Hosting model grid files on github. Github link listed on zenodo repository that is linked in the publication. 
 Users can cite both publication and Zenodo DOI. Thanks!
 If you have any specific model requests or spot any irregularities, please reach out to Aisha Iyer (aishwarya.iyer@nasa.gov). Thank you! 
 
 Model directory structure as follows: 
+--------------------------------------
+Example code to extract .7z files on bash:
+7z x SPHINXII_condcloud.7z -oSPHINXIIMODELS/
 
 All "flavors" of SPHINX II models have atmosphere structures in ATMS/ and stellar spectra in SPECTRA/ folders.
 

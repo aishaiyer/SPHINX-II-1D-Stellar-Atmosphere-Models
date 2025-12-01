@@ -2,7 +2,7 @@
 1D Stellar Atmosphere model grid and spectra for mid-to-late type M-dwarfs from Iyer et al. 2025. 
 Hosting model grid files on github. Github link listed on zenodo repository that is linked in the publication.
 Users can cite both publication and Zenodo DOI. Thanks!
-Please reach out to Aisha Iyer (aishwarya.iyer@nasa.gov) if you have any specific model requests. Thank you! 
+If you have any specific model requests or spot any irregularities, please reach out to Aisha Iyer (aishwarya.iyer@nasa.gov). Thank you! 
 
 Model directory structure as follows: 
 

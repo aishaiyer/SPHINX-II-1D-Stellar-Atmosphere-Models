@@ -1,4 +1,4 @@
-# SPHINX-II-1D-Stellar-Atmosphere-Models
+# SPHINX-II-1D-Stellar-Atmosphere-Models for Mid-to-Late type M dwarfs
 1D Stellar Atmosphere model grid and spectra for mid-to-late type M-dwarfs from Iyer et al. 2025. 
 Hosting model grid files on github. Github link listed on zenodo repository that is linked in the publication. 
 Users can cite both publication and Zenodo DOI here: https://zenodo.org/records/17782633. Thanks!
